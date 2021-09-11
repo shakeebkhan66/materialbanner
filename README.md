@@ -1,4 +1,4 @@
-# materialbanner
+# MaterialBanner
 
 How to show Material Banner in your application. A banner displays an important, succinct message, and provides actions for users to address (or dismiss the banner). It requires user action to be dismissed. MaterialBanner has two @required properties those are content and actions.
 
