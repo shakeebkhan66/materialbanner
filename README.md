@@ -9,6 +9,10 @@ Actions we add buttons here one the them will be for dismissing the banner and o
 
 <img src="https://user-images.githubusercontent.com/73787635/132938326-f7422912-31c7-4c7d-84c1-93c6dd257386.jpeg" height = 490, width = 280/>
 
+# Working Gif
+
+<img src="https://user-images.githubusercontent.com/73787635/132938508-61dbd191-c1ad-417c-beba-ba5191f4e019.gif" height = 490, width = 280/>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
